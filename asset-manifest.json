@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Weather-App/static/css/main.320b9023.chunk.css",
-    "main.js": "/React-Weather-App/static/js/main.66326fc4.chunk.js",
-    "main.js.map": "/React-Weather-App/static/js/main.66326fc4.chunk.js.map",
-    "runtime-main.js": "/React-Weather-App/static/js/runtime-main.3bd7d47a.js",
-    "runtime-main.js.map": "/React-Weather-App/static/js/runtime-main.3bd7d47a.js.map",
-    "static/js/2.b43871f4.chunk.js": "/React-Weather-App/static/js/2.b43871f4.chunk.js",
-    "static/js/2.b43871f4.chunk.js.map": "/React-Weather-App/static/js/2.b43871f4.chunk.js.map",
-    "index.html": "/React-Weather-App/index.html",
-    "precache-manifest.a2fbf193ca8c35d95015a90c82ba78b9.js": "/React-Weather-App/precache-manifest.a2fbf193ca8c35d95015a90c82ba78b9.js",
-    "service-worker.js": "/React-Weather-App/service-worker.js",
-    "static/css/main.320b9023.chunk.css.map": "/React-Weather-App/static/css/main.320b9023.chunk.css.map",
-    "static/js/2.b43871f4.chunk.js.LICENSE.txt": "/React-Weather-App/static/js/2.b43871f4.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/React-Weather-App/static/media/elio-santos-B6hw9ooyldM-unsplash.f8cb08cf.jpg"
+    "main.css": "/miknick.github.io/React-Weather-App/static/css/main.aeb841ab.chunk.css",
+    "main.js": "/miknick.github.io/React-Weather-App/static/js/main.44d8ab43.chunk.js",
+    "main.js.map": "/miknick.github.io/React-Weather-App/static/js/main.44d8ab43.chunk.js.map",
+    "runtime-main.js": "/miknick.github.io/React-Weather-App/static/js/runtime-main.239f45e4.js",
+    "runtime-main.js.map": "/miknick.github.io/React-Weather-App/static/js/runtime-main.239f45e4.js.map",
+    "static/js/2.b43871f4.chunk.js": "/miknick.github.io/React-Weather-App/static/js/2.b43871f4.chunk.js",
+    "static/js/2.b43871f4.chunk.js.map": "/miknick.github.io/React-Weather-App/static/js/2.b43871f4.chunk.js.map",
+    "index.html": "/miknick.github.io/React-Weather-App/index.html",
+    "precache-manifest.c8077df3fa206fd886b57db5ff7041b8.js": "/miknick.github.io/React-Weather-App/precache-manifest.c8077df3fa206fd886b57db5ff7041b8.js",
+    "service-worker.js": "/miknick.github.io/React-Weather-App/service-worker.js",
+    "static/css/main.aeb841ab.chunk.css.map": "/miknick.github.io/React-Weather-App/static/css/main.aeb841ab.chunk.css.map",
+    "static/js/2.b43871f4.chunk.js.LICENSE.txt": "/miknick.github.io/React-Weather-App/static/js/2.b43871f4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/miknick.github.io/React-Weather-App/static/media/elio-santos-B6hw9ooyldM-unsplash.f8cb08cf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3bd7d47a.js",
+    "static/js/runtime-main.239f45e4.js",
     "static/js/2.b43871f4.chunk.js",
-    "static/css/main.320b9023.chunk.css",
-    "static/js/main.66326fc4.chunk.js"
+    "static/css/main.aeb841ab.chunk.css",
+    "static/js/main.44d8ab43.chunk.js"
   ]
 }

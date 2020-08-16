@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./Images/elio-santos-B6hw9ooyldM-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center center ;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+@media(max-width:750px){
+ 
+ h1{
+   font-size: 2.6rem;
+ }
+ h4{
+   font-size  :1.6rem
+}
+}
+@media(max-width:600px){
+  li>a{
+    margin: -18px !important;
+    padding: 0 !important;
+    width: 110px !important;
+    font-size: 1rem !important;
+  }
+  input{
+    margin-right: 40px !important;
+    width: 80px !important;
+  }
+  .brand-logo{
+    font-size: 1.5rem !important;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card{
+  position: relative;
+  text-transform: capitalize;
+  width: 55%;
+  left: 25%;
+  top: 150px;
+}
+
+ #temp {
+  margin-top: -35px;
+}
+#unitButton{
+  margin-bottom: 10px;
+}
